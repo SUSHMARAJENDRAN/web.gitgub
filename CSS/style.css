@@ -1,0 +1,29 @@
+
+button{
+    text-align: center;
+    border-radius: 67px;
+}
+#but{
+    padding: 30px;
+    position: relative;
+    left:550px;
+    top:250px;
+    font-size: 20px;
+    color:blue
+
+    
+}
+.head{
+    display: flex;
+}
+h1{
+    flex:1;
+     font-size: 45px;
+}
+p{
+    flex:1;
+    font-size: 45px;
+}
+#but:hover{
+    background-color: brown;
+}
